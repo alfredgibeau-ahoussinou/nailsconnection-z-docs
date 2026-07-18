@@ -2,7 +2,7 @@
 
 Documentation **publique** pour **NailsConnection.Z** (Grenoble) : nail tech, site vitrine et réservation en ligne.
 
-> Le **code source** du site (Next.js, admin, API) est dans des dépôts GitHub dédiés. Ce dépôt ne contient que des guides et infos utiles — **aucune clé API, aucun mot de passe admin**.
+> Le **code source** du site (Next.js, admin, API) est **uniquement** dans le dépôt privé ci-dessous. Ce dépôt ne contient que des guides et infos utiles — **aucune clé API, aucun mot de passe admin**.
 
 ## Liens utiles
 
@@ -26,11 +26,11 @@ Documentation **publique** pour **NailsConnection.Z** (Grenoble) : nail tech, si
 | [docs/deploiement-netlify.md](./docs/deploiement-netlify.md) | Déploiement et stockage Blobs |
 | [CONTRIBUTING.md](./CONTRIBUTING.md) | Règles (pas de secrets) |
 
-## Dépôts code
+## Dépôts
 
-| Dépôt | Visibilité |
-|-------|------------|
-| [nailsconnection-z](https://github.com/alfredgibeau-ahoussinou/nailsconnection-z) | Public |
-| [nailsconnection-z-private](https://github.com/alfredgibeau-ahoussinou/nailsconnection-z-private) | Privé |
+| Ressource | Lien | Visibilité |
+|-----------|------|------------|
+| **Code** | [nailsconnection-z](https://github.com/alfredgibeau-ahoussinou/nailsconnection-z) | **Privé** |
+| **Docs** (ce dépôt) | [nailsconnection-z-docs](https://github.com/alfredgibeau-ahoussinou/nailsconnection-z-docs) | Public |
 
-L’accès au dépôt privé est réservé aux personnes autorisées.
+Le code n’est **pas** public. L’accès au dépôt privé est réservé aux personnes autorisées.
